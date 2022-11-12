@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EjercicioExtra</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_resumen_partido">Game Resume</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="btn_crear">Create</string>
+    <string name="btn_atras">Back</string>
+    <string name="lb_info_partido">GAME INFO</string>
+    <string name="hint_goles">Goals</string>
+    <string name="lb_ganador_view_partido">Winner of the match</string>
+    <string name="Empate">Draw</string>
+    <string name="Ganado">Winner:</string>
+</resources>

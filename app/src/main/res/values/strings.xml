@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EjercicioExtra</string>
+    <string name="action_settings">Configuración</string>
+
+    <string-array name="equipos_futbol">
+        <item>FC Barcelona</item>
+        <item>Real Madrid</item>
+        <item>Real Sociedad</item>
+        <item>Athletic</item>
+        <item>Atlético de Madrid</item>
+        <item>Real Betis</item>
+        <item>Osasuna</item>
+        <item>Rayo Vallecano</item>
+        <item>Villareal</item>
+        <item>Valencia</item>
+        <item>Mallorca</item>
+        <item>Real Valladolid</item>
+        <item>Girona</item>
+        <item>Almería</item>
+        <item>Getafe</item>
+        <item>Espanyol</item>
+        <item>Celta de Vigo</item>
+        <item>Sevilla</item>
+        <item>Cádiz</item>
+        <item>Elche</item>
+    </string-array>
+
+
+    <string name="hint_resumen_partido">Resumen Partido</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_crear">Crear</string>
+    <string name="btn_atras">Atras</string>
+    <string name="lb_info_partido">INFORMACIÓN DEL PARTIDO</string>
+    <string name="hint_goles">Goles</string>
+    <string name="lb_ganador_view_partido">Ganador del partido</string>
+    <string name="Empate">Han empatado</string>
+    <string name="Ganado">Ha ganado</string>
+</resources>
